@@ -33,16 +33,19 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/personalized-recommendation-system.git
+   git clone https://github.com/sushantkrsky/personalized-recommendation-system.git
 2. Navigate to the project directory:
+   ```bash
    cd personalized-recommendation-system
-3. Install the required packages:   
+3. Install the required packages:
+   ```bash   
    pip install -r requirements.txt
 
 Usage
 1. Load your dataset into the data folder.
 Run the main script:
-2. python src/main.py
+2. ```bash
+   python src/main.py
 3. Follow the prompts to input user ID for which you want to see product recommendations
 
 Data
